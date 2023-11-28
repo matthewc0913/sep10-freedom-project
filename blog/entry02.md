@@ -13,8 +13,8 @@ I was researching how software and hardware affects sports. What I found was man
 * Strategies
 * Optimizing performance outcomes
 
-
 ### How I found it 
+How I found this infomation is I googled software in sports and hardware in sports.
 
 ## EDP
 
