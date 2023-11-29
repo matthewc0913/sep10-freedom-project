@@ -32,7 +32,7 @@ I have always been a unorganized person. But for school and mostly for this comp
 Now I can feel like I can focus on one class at a time with this trick.
 
 ### How to Google
-When I Googled _software in sports_, I don't want to look at 1.5 billion results especially when some results I have already seen or results that have nothing to do with technology or sports. That is why I have learned that the hyphen (**-**) 
+When I Googled _software in sports_, I don't want to look at 1.5 billion results especially the results I have already seen or the results that have nothing to do with technology or sports. That is why I have learned that the hyphen (**-**) tells Google that you do not want pages that contain this word to appear in your results. So I have been use the hyphen in my google searches to help me filter my google searches.
 
 ## Next Steps
 I look forward to what comes next!
