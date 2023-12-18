@@ -9,14 +9,14 @@ I was thinking of ideas to improve sports. I called it "My inventions". My inven
 * Ball tracking
 * Play Maker
 
-#### AI refs
+### AI refs
 **AI refs** is a idea I created because of multiple people: 
 * Bryce Harper
 * Draymond Green
 
 Both Harper and Draymond are complainers. They complain about every call that does not go there way and they aruge with the umpires. With **AI refs** they can't complain because the call becuase it will be the correct call. There will be no more complainers in sports with **AI refs**.
 
-#### Hype-O-Meter
+### Hype-O-Meter
 The **Hype-O-Meter** is to tell how hype something is. Hype is a slang that means _to make people excited about or interested in something or someone_. I thought about this idea when Bryson Stott hit a grand slam in the MLB postseason. Examples of plays that the **Hype-O-Meter** can be used for are:
 * Home run/ Grand Slam
 * Interception
@@ -46,10 +46,10 @@ Caluations for the **Hype-O-Meter** are as goes:
 
 This is also a new stat called _Hype_ which is the number after the caluations for the **Hype-O-Meter**. The **Hype-O-Meter** will improve sports in a big way.
 
-#### Ball tracking
+### Ball tracking
 
 
-#### Play Maker
+### Play Maker
 
 
 ### Finalizing Content
