@@ -34,6 +34,18 @@ The **Hype-O-Meter** is to tell how hype something is. Hype is a slang that mean
 
 These are only a few example on how the **Hype-O-Meter** can be used. 
 
+---
+
+Caluations for the **Hype-O-Meter** are as goes: 
+
+1. Win percentage difference
+2. Add Loudness of the crowd (dB)
+3. Add The number of inning (Only for baseball), the quarter number (Football/Basketball), the period (Hockey), Number of mintue (Soccer)
+4. Divide by 100
+5. Round to nearest whole number
+
+This is also a new stat called _Hype_ which is the number after the caluations for the **Hype-O-Meter**. The **Hype-O-Meter** will improve sports in a big way.
+
 #### Ball tracking
 
 
