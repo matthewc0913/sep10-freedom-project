@@ -17,10 +17,23 @@ AI refs is a idea I created because of multiple people:
 Both Harper and Draymond are complainers. They complain about every call that does not go there way and they aruge with the umpires. With AI refs they can't complain because the call becuase it will be the correct call. There will be no more complainers in sports with AI refs.
 
 #### Hype-O-Meter
+The **Hype-O-Meter** is to tell how hype something is. Hype is a slang that means _to make people excited about or interested in something or someone_. I thought about this idea when Bryson Stott hit a grand slam in the MLB postseason. Examples of plays that the **Hype-O-Meter** can be used for are:
+* Home run/ Grand Slam
+* Interception
+* Slam Dunk
+* Touchdown
+* Walk Off
+* No Hitter/Perfect Game
+* winning a game
+* Winning the World Series/NBA Champions/NBA In-Season Tornament/Super Bowl
+
+
 
 #### Ball tracking
 
+
 #### Play Maker
+
 
 ### Finalizing Content
 I had to 
