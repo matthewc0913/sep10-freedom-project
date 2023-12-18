@@ -53,7 +53,7 @@ This is also a new stat called _Hype_ which is the number after the caluations f
 
 
 ### Finalizing Content
-I had to 
+I had to organize my ideas to make it ready for a website.
 
 ## EDP
 I am currently in the thrid stage of the engineering design process, where the main goal is to brainstorm possible solutions to the problem. Why I think I am in this step in the Engineering Design Process is I am making ideas to solve the problem. The next stage is to plan the most promising solution to resovle the issue.
