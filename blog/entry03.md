@@ -47,10 +47,17 @@ Caluations for the **Hype-O-Meter** are as goes:
 This is also a new stat called _Hype_ which is the number after the caluations for the **Hype-O-Meter**. The **Hype-O-Meter** will improve sports in a big way.
 
 ### Ball tracking
+The **Ball tracking** device tracks the ball movement of the ball. It tracks the balls
+* speed
+* distance
+* spin rate (if there is one)
 
+This device goes inside of the ball so people can see it's stats.
+
+I am looking to elimiate radar guns for use of sports.
 
 ### Play Maker
-
+The **Play Maker** 
 
 ### Finalizing Content
 I had to organize my ideas to make it ready for a website. What I did is I spread it out into two sections. One section is _Outdated or “Old” INVENTIONS_ the other section is called: _MY INVENTIONS_. 
