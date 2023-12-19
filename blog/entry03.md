@@ -59,9 +59,11 @@ I am looking to elimiate radar guns for use of sports. Using the **Ball tracking
 ### Play Maker
 The **Play Maker** gives the best play depending on the outcome, the situation, the team you are facing, who is playing, and it predicts the other teams play.
 
-The prediction is not always correct.
+The prediction is not always correct. It kinda works like Madden where you pick a play and executes the play.
 
-The **Play Maker** works for offence and defence. It kinda works like Madden where you pick a play and executes the play
+The **Play Maker** works for offence and defence. 
+
+The **Play Maker** will give the teams the best way to win.
 
 ### Finalizing Content
 I had to organize my ideas to make it ready for a website. What I did is I spread it out into two sections. One section is _Outdated or “Old” INVENTIONS_ the other section is called: _MY INVENTIONS_. 
