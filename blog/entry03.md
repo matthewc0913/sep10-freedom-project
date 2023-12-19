@@ -2,7 +2,7 @@
 ##### 12/18/2023
 
 ## Content
-I was thinking of ideas to improve sports. I called it "My inventions". My inventions include:
+I was thinking of ideas to improve sports. I called it _My inventions_. My inventions include:
 
 * AI refs
 * Hype-O-Meter
@@ -53,7 +53,24 @@ This is also a new stat called _Hype_ which is the number after the caluations f
 
 
 ### Finalizing Content
-I had to organize my ideas to make it ready for a website.
+I had to organize my ideas to make it ready for a website. What I did is I spread it out into two sections. One section is _Outdated or “Old” INVENTIONS_ the other section is called: _MY INVENTIONS_. 
+
+For _Outdated or “Old” INVENTIONS_ I gave old inventions that sports use:
+
+* Instant Replay
+* Mobile Apps
+* Medical
+
+I also explained each inventions.
+
+For _MY INVENTIONS_ I gave my new ideas that sports will use:
+
+* AI umpires/refs
+* Ball tracking
+* Play Maker
+* Hype-o-meter
+
+I also explained my thought process for inventing each idea.
 
 ## EDP
 I am currently in the thrid stage of the engineering design process, where the main goal is to brainstorm possible solutions to the problem. Why I think I am in this step in the Engineering Design Process is I am making ideas to solve the problem. The next stage is to plan the most promising solution to resovle the issue.
