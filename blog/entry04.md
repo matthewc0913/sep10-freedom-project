@@ -25,8 +25,12 @@ I decided to use the tool a-frame. A-frame uses a 3D space to visualize your cod
 I'm not going to go through each shape but with those shapes you can rotate them, change their color, expand their width, and hight.
 
 ### Thinkering
-I thinkered with a-frame by creating a triangle, moving it around, changing the color from white to pink.
+I thinkered with a-frame by creating a triangle, moving it around, changing the color from white to pink. Also I 
 
+
+
+## Next Steps
+I am looking forward to what comes next!
 
 [Previous](entry03.md) | [Next](entry05.md)
 
