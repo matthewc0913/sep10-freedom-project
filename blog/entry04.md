@@ -24,7 +24,7 @@ I decided to use the tool a-frame. A-frame uses a 3D space to visualize your cod
 
 I'm not going to go through each shape but with those shapes you can rotate them, change their color, expand their width, and hight.
 
-### Thinkering
+### Tinkering
 I thinkered with a-frame by creating a triangle, moving it around, changing the color from pink to white. Also I change the size of a plane, I change the height of a box, and I changed the sky's color from light blue to purple. I changed other stuff that you can see in the code below.
 
 The code:
@@ -43,10 +43,9 @@ The code:
     </a-scene>
   </body>
 </html>
-
 ```
 
-
+I liked tinkering with A-frame. I liked seeing the 3D landscape change when I code. 
 
 ## Next Steps
 I am looking forward to what comes next!
