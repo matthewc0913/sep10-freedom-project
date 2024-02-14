@@ -47,6 +47,18 @@ The code:
 
 I liked tinkering with A-frame. I liked seeing the 3D landscape change when I code. 
 
+#### Where to find A-frame 
+If you are wondering where to get the code for a-frame you can find it [here.](https://aframe.io/docs/1.5.0/introduction/)
+
+## Skills
+Some skills that I’ve learned since working on the last blog are **How to Google**, and **How to learn**.
+
+### How to Google
+To learn A-frame I needed to Google how to use it. How I Googled A-frame is I typed _How to used A-frame_ and saw [this](https://www.youtube.com/watch?v=ktjMCanKNLk) tutorial which told me how a-frame works and how to effective use it. Now I know how to use Google more effectively.
+
+### How to learn
+To learn A-frame I need practice. I learned a-frame by watching a tutorial and tinkered with it. I already talked about these things so now I'm just going to practice more. This is how I'm learning on my own
+
 ## Next Steps
 I am looking forward to what comes next!
 
