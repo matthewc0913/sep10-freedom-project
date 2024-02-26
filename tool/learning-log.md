@@ -4,8 +4,8 @@ Tool: **A-frame**
 
 ---
 
-2/26/2024:
-* Text
+2/26/2024
+* What I did was have 
 
 X/X/X:
 * Text
