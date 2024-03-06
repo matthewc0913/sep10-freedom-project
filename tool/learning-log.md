@@ -9,4 +9,5 @@ Tool: **A-frame**
 * My next steps is try to move the shapes and enlarge or shorten the shapes too and move the hieght of the shapes and create more shapes like a triangle.
 
 3/4/2024
-* Text
+* What I did was I changed of the box, the cyclinder and the plane. I made the box move to the right and the cyclinder to the left. I also elongated the plane.
+* My next steps is try to change the hieght of the shapes and create more shapes like a triangle.
