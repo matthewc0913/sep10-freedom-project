@@ -11,3 +11,8 @@ Tool: **A-frame**
 3/4/2024
 * What I did was I changed of the box, the cyclinder and the plane. I made the box move to the right and the cyclinder to the left. I also elongated the plane.
 * My next steps is try to change the hieght of the shapes and create more shapes like a triangle.
+
+
+3/11/2024
+* What I did was I added a cyan triangle and changed the hieght so it can looked streched out.
+* My next steps is to try and make more unique shapes and keep changing how they look.
