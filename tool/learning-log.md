@@ -16,3 +16,7 @@ Tool: **A-frame**
 3/11/2024
 * What I did was I added a cyan triangle and changed the hieght so it can looked streched out.
 * My next steps is to try and make more unique shapes and keep changing how they look.
+
+3/18/2024
+*  What I did was I added a white box a increased the height and length to make it seem bigger
+*   My next steps is to try and make more unique shapes and keep changing how they look.
