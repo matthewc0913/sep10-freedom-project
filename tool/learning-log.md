@@ -21,5 +21,5 @@ Tool: **A-frame**
 * My next steps is to try and make more unique shapes and keep changing how they look.
 
 3/25/2024
-* What I did was changed the white boxs color to purple 
-* My next steps is to try and make more unique shapes and keep changing how they look.
+* What I did was Imade the cylinder circle around the sphere and have the white box color change to purple
+* My next steps is to stack shapes and build something with the shapes I have
