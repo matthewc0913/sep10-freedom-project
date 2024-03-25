@@ -22,4 +22,16 @@ Tool: **A-frame**
 
 3/25/2024
 * What I did was Imade the cylinder circle around the sphere and have the white box color change to purple
-* My next steps is to stack shapes and build something with the shapes I have
+* My next steps is to stack shapes and build something with the shapes I have.
+
+```
+<a-scene>
+      <a-box position="-1 .5 -2" rotation="0 45 0" color="green"></a-box>
+      <a-box position="-1.5 .5 -2.1" rotation="0 45 0" color="purple"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.5" color="yellow"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="red"></a-cylinder>
+      <a-plane position="0 -.2 -4" rotation="-90 54 88" width="400" lengh="400" height="4" color="brown"></a-plane>
+      <a-cylinder position="0 1.25 -5" radius="1.5" color="black"> </a-cylinder>
+      <a-sky color="lightblue"></a-sky>
+    </a-scene>
+```
