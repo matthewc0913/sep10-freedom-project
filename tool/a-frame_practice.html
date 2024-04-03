@@ -1,14 +1,78 @@
 <html>
   <head>
     <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
-  </head>
+    <meta name="description" content="Aincraft">
   <body>
+      <a-scene>
+        <a-assets>
+          <img id="city" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/city.jpg">
+          <img id="city-thumb" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-city.jpg">
+          <img id="cubes-thumb" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg">
+          <img id="sechelt-thumb" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-sechelt.jpg">
+          <audio id="click-sound" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/audio/click.ogg"></audio>
+          <img id="cubes" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/cubes.jpg">
+          <img id="sechelt" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg">
+        <a-sky id="image-360" radius="10" src="#city"
+               animation__fade="property: components.material.material.color; type: color; from: #FFF; to: #000; dur: 300; startEvents: fade"
+               animation__fadeback="property: components.material.material.color; type: color; from: #000; to: #FFF; dur: 300; startEvents: animationcomplete__fade"></a-sky>
+        <a-entity id="links" layout="type: line; margin: 1.5" position="0 -1 -4">
+          <a-entity template="src: #link" data-src="#cubes" data-thumb="#cubes-thumb"></a-entity>
+          <a-entity template="src: #link" data-src="#city" data-thumb="#city-thumb"></a-entity>
+          <a-entity template="src: #link" data-src="#sechelt" data-thumb="#sechelt-thumb"></a-entity>
+        </a-entity>
+        <a-entity camera look-controls>
+          <a-cursor
+            id="cursor"
+            animation__click="property: scale; startEvents: click; from: 0.1 0.1 0.1; to: 1 1 1; dur: 150"
+            animation__fusing="property: fusing; startEvents: fusing; from: 1 1 1; to: 0.1 0.1 0.1; dur: 1500"
+            event-set__mouseenter="_event: mouseenter; color: springgreen"
+            event-set__mouseleave="_event: mouseleave; color: black"
+            raycaster="objects: .link"></a-cursor>
+        </a-entity>
+      </a-scene>
     <a-scene>
-      <a-box position="-1 0.5 -3" rotation="0 45 0" color="green"></a-box>
-      <a-sphere position="0 1.25 -5" radius="1.25" color="yellow"></a-sphere>
+      <a-box position="-1 .5 -2" rotation="0 45 0" color="green"></a-box>
+      <a-box position="-1.5 .5 -2.1" rotation="0 45 0" color="purple"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.5" color="yellow"></a-sphere>
       <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="red"></a-cylinder>
-      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="brown"></a-plane>
+      <a-plane position="0 -.2 -4" rotation="-90 54 88" width="400" lengh="400" height="4" color="brown"></a-plane>
+      <a-cylinder position="0 1.25 -5" radius="1.5" color="black"> </a-cylinder>
       <a-sky color="lightblue"></a-sky>
+      <a-scene avatar-recorder>
+        <a-assets>
+          <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
+          <img id="skyTexture" src="https://cdn.aframe.io/a-painter/images/sky.jpg">
+          <a-mixin id="voxel"
+             geometry="primitive: box; height: .5; width: .5; depth: 0.5"
+             material="shader: standard"
+             random-color
+             snap="offset: 0.25 0.25 0.25; snap: 0.5 0.5 0.5"
+          ></a-mixin>
+          <a-assets>
+            <img id="pink" src="https://img.gs/bbdkhfbzkk/stretch/http://i.imgur.com/1hyyIUi.jpg" crossorigin="anonymous" />
+            <img src="https://img.gs/bbdkhfbzkk/stretch/https://i.imgur.com/25P1geh.png" id="grid" crossorigin="anonymous">
+            <img src="https://img.gs/bbdkhfbzkk/2048x1024,stretch/http://i.imgur.com/WMNH2OF.jpg" id="chrome" crossorigin="anonymous">
+            <img id="sky" src="https://img.gs/bbdkhfbzkk/2048x2048,stretch/http://i.imgur.com/WqlqEkq.jpg" crossorigin="anonymous" />
+            <a-asset-item id="dawningFont" src="https://cdn.glitch.com/c719c986-c0c5-48b8-967c-3cd8b8aa17f3%2FdawningOfANewDayRegular.typeface.json?1490305922844"></a-asset-item>
+            <a-asset-item id="exoFont" src="https://cdn.glitch.com/c719c986-c0c5-48b8-967c-3cd8b8aa17f3%2Fexo2Black.typeface.json?1490305922150"></a-asset-item>
+            <a-asset-item id="exoItalicFont" src="https://cdn.glitch.com/c719c986-c0c5-48b8-967c-3cd8b8aa17f3%2Fexo2BlackItalic.typeface.json?1490305922725"></a-asset-item>
+          </a-assets>
+        </a-assets>
+
+        <a-sky id="bg" radius="10000000" src="#skyTexture" theta-length="90"></a-sky>
+
+        <a-cylinder id="ground" src="#groundTexture" radius="32" height="0.1"></a-cylinder>
+        <a-entity id="teleHand"
+          hand-controls="left"
+          teleport-controls="type: parabolic; collisionEntities: [mixin='voxel'], #ground"
+        ></a-entity>
+        <a-entity id="blockHand"
+          hand-controls="right"
+          controller-cursor
+          intersection-spawn="event: click; mixin: voxel"
+        ></a-entity>
+      </a-scene>
     </a-scene>
-  </body>
+    </body>
+  </head>
 </html>
