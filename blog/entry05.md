@@ -23,18 +23,32 @@ During the beginning of learning A-frame what I did was create a box, a sphere, 
 ```
 
 ### The middle
-During the middle portion of learning A-frame what I did was created m ore shapes like a triangle, rings, cones, and circle. I also moved around the shapes I already had. For example I enlongated the plane so it can look like a big field instead of a little plane.
+During the middle portion of learning A-frame what I did was created more shapes like a triangle, rings, cones, and circle. I also moved around the shapes I already had. For example I enlongated the plane so it can look like a big field instead of a little plane.
 
 ### The end
+During the end of learning A-frame what I did was created a white box a increased the height and length to make it seem bigger, and I made another  cylinder to make the cylinder circle around the sphere and have the white box color change to purple.
 
+##### The end code
+
+```
+<a-scene>
+      <a-box position="-1 .5 -2" rotation="0 45 0" color="green"></a-box>
+      <a-box position="-5.5 .5 -9.1" rotation="0 45 0" color="purple"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.5" color="yellow"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="red"></a-cylinder>
+      <a-plane position="0 -.2 -4" rotation="-90 54 88" width="400" lengh="400" height="4" color="brown"></a-plane>
+      <a-cylinder position="0 1.25 -5" radius="1.5" color="black"> </a-cylinder>
+      <a-sky color="lightblue"></a-sky>
+    </a-scene>
+```
 
 ---
 
 ## Skills
-Some skills that I’ve learned since working on the last blog are **Embracing failure**, and **Debugging**.
+Some skills that I’ve learned since learning A-frame are **Embracing failure**, and **Debugging**.
 
 ### Embracing failure
-To learn A-frame I needed to embrace failure when something did not work.
+To learn A-frame I needed to embrace failure when something did not work. When I write code I think it's going to work everytime and that is not true. So every time something fails I try to learn from it. Either reading my code, and debug the code or 
 
 ### Debugging
 To learn A-frame I needed to debug code when something did not work.
