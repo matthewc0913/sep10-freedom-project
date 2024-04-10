@@ -47,11 +47,11 @@ During the end of learning A-frame what I did was created a white box a increase
 ## Skills
 Some skills that I’ve learned since learning A-frame are **Embracing failure**, and **Debugging**.
 
-### Embracing failure
-To learn A-frame I needed to embrace failure when something did not work. When I write code I think it's going to work everytime and that is not true. So every time something fails I try to learn from it. Either reading my code, and debug the code or 
-
 ### Debugging
-To learn A-frame I needed to debug code when something did not work.
+To learn A-frame I needed to debug code when something did not work. When there are errors in my code I know I did something wrong. What I will do is I will try to see what the problem is and try to debug it but I am not learning that way. Now I learn from my mistakes and now debugging an error feels like I learned something and not just deduged the error to fix my mistakes. Now I know how to use debug more effectively. 
+
+### Embracing failure
+To learn A-frame I needed to embrace failure when something did not work. When I write code I think it's going to work everytime and that is not true. So every time something fails I try to learn from it. Either reading my code, and debug the code or see what I did wrong and redo it. This is how I'm embracing failure.
 
 ## Next Steps
 I am looking forward to what comes next for my freedom project!
