@@ -16,10 +16,10 @@ I had to learn and thinker with my tool A-frame for my freedom project.
 Some skills that I’ve learned since working on the last blog are **Embracing failure**, and **Debugging**.
 
 ### Embracing failure
-
+To learn A-frame I needed to embrace failure when something did not work.
 
 ### Debugging
-
+To learn A-frame I needed to debug code when something did not work.
 
 ## Next Steps
 I am looking forward to what comes next for my freedom project!
