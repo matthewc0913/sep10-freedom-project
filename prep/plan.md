@@ -1,7 +1,7 @@
 # Plan
 
 ## Wireframes
-* [Mobile](https://drive.google.com/file/d/1YMjTm-AEYFoew17HD9Pw8w4GTl-xBGTH/view)
+* [Mobile](Screenshot 2024-04-11 12.55.11 PM.png)
 * [Desktop](https://drive.google.com/file/d/12Gaz45NjfC-V_G_gIvrDuIilmeJwNTqi/view)
 
 ## Colors
