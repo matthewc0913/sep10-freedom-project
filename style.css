@@ -3,4 +3,13 @@ h1 {
     font-size: 60px;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-
+h3 {
+    text-align: center;
+    font-size: 45px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p{
+    text-align: center;
+    font-size: 17.5px;
+    font-family: "Lucida Console", "Courier New";
+}
