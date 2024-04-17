@@ -13,3 +13,15 @@ p {
     font-size: 17.5px;
     font-family: "Lucida Console", "Courier New";
 }
+
+li {
+    text-align: left;
+    font-size: 17.5px;
+    font-family: "Lucida Console", "Courier New";
+}
+
+ul {
+    text-align: center;
+    font-size: 1.5px;
+    font-family: "Lucida Console", "Courier New";
+}
