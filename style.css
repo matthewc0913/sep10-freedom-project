@@ -25,3 +25,7 @@ ul {
     font-size: 1.5px;
     font-family: "Lucida Console", "Courier New";
 }
+
+h1 {
+    background-image: "plainpic.jpeg";
+}
