@@ -2,30 +2,68 @@ h1 {
     text-align: center;
     font-size: 60px;
     font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    font-weight: bold;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 35px;
+    background-color: #6d4487;
 }
 h3 {
     text-align: center;
     font-size: 45px;
     font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    font-weight: bold;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 35px;
+    background-color: #6d4487;
 }
 p {
-    text-align: left;
     font-size: 17.5px;
     font-family: "Lucida Console", "Courier New";
+    color: white;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 35px;
+    background-color: #6d4487;
+    font-weight: bold;
+
 }
 
 li {
-    text-align: left;
     font-size: 17.5px;
+    text-align: left;
     font-family: "Lucida Console", "Courier New";
+    color: white;
+    font-weight: bold;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 35px;
+    background-color: #6d4487;
 }
 
 ul {
-    text-align: center;
-    font-size: 1.5px;
+    font-size: 17.5px;
+    text-align: left;
     font-family: "Lucida Console", "Courier New";
+    color: white;
+
+
 }
 
-h1 {
-    background-image: "plainpic.jpeg";
+body {
+    background-image: url("plainpic.jpeg");
+    opacity: 1;
+
 }
+
+img {
+    border-radius: 8px;
+    max-width: 200%;
+  height: auto%;
+  }
+
+
+
