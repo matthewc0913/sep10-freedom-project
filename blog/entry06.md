@@ -117,7 +117,8 @@ After I created the A-frame I explained the A-frame. After that I made a conclus
 ## EDP
 I am currently in the fourth and fifth stage of the engineering design process, where the main goal is to plan out the most promising solution and create a prototype. Why I think I am in this step in the Engineering Design Process is I am using A-frame to create a prototype and I writing about planing out the most promising and possible solution. The next stage is to test and evaluate the prototype.
 
-
+## Skills
+Some skills that I’ve learned since learning A-frame are **-**, and **-**.
 
 ## Next Steps
 I am looking forward to build something better for my freedom project website!
