@@ -5,7 +5,7 @@
 I had to create a MVP for my freedom project website.
 
 ### What is a MVP
-A MVP in sports is a million times different that the MVP we are talking about here. The MVP in sports stands for most valuable player but this MVP stands for minimum viable product. This means the least you can make but it still works properly. For example instead of working piece by piece you can make something that works and then expand it. This is what this verison of MVP means.
+A **MVP** in sports is a million times different that the _MVP_ we are talking about here. The **MVP** in sports stands for most valuable player but this _MVP_ stands for minimum viable product. This means the least you can make but it still works properly. For example instead of working piece by piece you can make something that works and then expand it. This is what this verison of MVP means.
 
 ### The beginning
 During the beginning of creating my freedom project website I had to know what was important enough to make it in the website. First I added a title, navbar, the topic and the context. Here is the code:
@@ -88,7 +88,34 @@ body {
 
 ```
 ### A-frame
-I had to create a A-frame to show an example of my ideas that can change the sports world
+I had to create a A-frame to show an example of my ideas that can change the sports world. I had to use the skills that I had learn to make this A-frame. I imitated the **Ball tracking** device to implement into A-frame. I created the **Ball tracking** device by tracking a ball using the A-frame capabillty. 
+
+### Conclusion
+After I created the A-frame I explained the A-frame. After that I made a conclusion and that is the end of the website.
+
+```
+<img src="aiumps.jpeg" alt="Robot Ump" width= "500" height="10">
+              <p>Click <a href="FreedomA-frame.html">here</a> to see some of the capability of the Ball tracking device works.</p>
+              <p>As you can see the ball was tracked with the cylinders from the center to the left. This is only a little of what the Ball tracking device is able to do. </p>
+
+              <div id="Conclusion"></div>
+              <h3 class= "Conclusion"> Conclusion</h3>
+        <p>In conclusion even though technology has helped sports grow and evole, my ideas can make sports better than it ever was before.</p>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- <script src="script.js"></script> -->
+        <script>
+            // JS
+
+        </script>
+    </body>
+</html>
+```
+
+---
+
+
+## EDP
+I am currently in the fourth and fifth stage of the engineering design process, where the main goal is to plan out the most promising solution and create a prototype. Why I think I am in this step in the Engineering Design Process is I am using A-frame to create a prototype and I writing about planing out the most promising and possible solution. The next stage is to test and evaluate the prototype.
 
 ## Next Steps
 I am looking forward to build something better for my freedom project website!
