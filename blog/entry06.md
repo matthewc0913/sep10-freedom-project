@@ -87,6 +87,8 @@ body {
               <p> The Ai umpires and referees is a physical robot that referees your favorite sport. With AI umpires and referees no more time can be wasted with replays because the umpires and referees are 100% accurate. Players like Bryce Harper and Draymond Green can't complain about calls anymore because the calls are not wrong. There will never be a missed call again. The Ball tracking devicee goes inside the ball that the sport is using. With Ball tracking you get to see how far, and fast the ball goes when it is hit, thrown, or kicked. You also get to see the spin rate of the ball too. For example if Alex Wood throws a ball 93 mph to Mookie Betts and Mookie hits it 421 feet at 104.6 mph you will know that with the Ball tracker. The Play Maker will be an app that teams and coaches use to see what the best play for that situation is. Also the Play Maker will try to predicts the other team's play and finds a way to beat it. The Hype-O-Meter is a software that tracks how good or hype a play is based on how close the game was, how loud was the crowd, and how it affects the team win percentage. For example a hail mary touchdown to take the lead will be good for the Hype-O-Meter because it was the good and hype play and it affected the lead of the game. These are some for the ideas that will chage sports forever.  </p>
 
 ```
+### A-frame
+I had to create a A-frame to show an example of my ideas that can change the sports world
 
 ## Next Steps
 I am looking forward to build something better for my freedom project website!
