@@ -118,7 +118,14 @@ After I created the A-frame I explained the A-frame. After that I made a conclus
 I am currently in the fourth and fifth stage of the engineering design process, where the main goal is to plan out the most promising solution and create a prototype. Why I think I am in this step in the Engineering Design Process is I am using A-frame to create a prototype and I writing about planing out the most promising and possible solution. The next stage is to test and evaluate the prototype.
 
 ## Skills
-Some skills that I’ve learned since learning A-frame are **-**, and **-**.
+Some skills that I’ve learned since learning A-frame are **Attention to detail**, and **Time management**.
+
+### Time management
+While working on the website I also on vacation in Puerto Rico. I had to manage time doing this, time with family, time relaxing. So I set curtain days to work on the website. The rest of the days in PR can be with family or relaxing the hot weather. With this scheduling I finish the website and had fun in Puerto Rico with my family. Now I have learned to balance time to do certain things.
+
+### Attention to detail
+With making a website I have to be perfect or the whole website can crash or look terrible. So I have to pay attention to detail to make it look perfect. 
+
 
 ## Next Steps
 I am looking forward to build something better for my freedom project website!
