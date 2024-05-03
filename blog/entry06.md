@@ -124,8 +124,7 @@ Some skills that I’ve learned since learning A-frame are **Attention to detail
 While working on the website I also on vacation in Puerto Rico. I had to manage time doing this, time with family, time relaxing. So I set curtain days to work on the website. The rest of the days in PR can be with family or relaxing the hot weather. With this scheduling I finish the website and had fun in Puerto Rico with my family. Now I have learned to balance time to do certain things.
 
 ### Attention to detail
-With making a website I have to be perfect or the whole website can crash or look terrible. So I have to pay attention to detail to make it look perfect. 
-
+With making a website I have to be perfect or the whole website can crash or look terrible. So I have to pay attention to detail to make it look perfect. So I mispelled a word or when things did not meet to my likings I had to change them. With everything perfect, I can feel comforable about sharing my website. Now I have learned to pay attention to detail.
 
 ## Next Steps
 I am looking forward to build something better for my freedom project website!
