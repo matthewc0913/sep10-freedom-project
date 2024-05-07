@@ -24,3 +24,8 @@
 #### Beyond MVP
 
 * 5/1 onward. more boostrap, images better a-frame better css/html
+
+- [ ] Maybe try using color instead of using a minimal background picture.
+- [ ] melded more sections together
+- [ ] Spacing in between lines
+- [ ] Better A-frame
