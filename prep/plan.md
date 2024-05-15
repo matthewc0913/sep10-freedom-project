@@ -27,5 +27,5 @@
 
 - [ ] Maybe try using color instead of using a minimal background picture.
 - [ ] melded more sections together
-- [ ] Spacing in between lines
+- [x] Spacing in between lines
 - [ ] Better A-frame
