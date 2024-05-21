@@ -6,7 +6,7 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **sports**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **sports** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-frame** in order to help me make my website.
 
 ## Links
 
@@ -19,7 +19,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **s
 *
 
 ##### CONS
-*
+* Lost of Jobd with AI Refs
 
 
 ## Blog
