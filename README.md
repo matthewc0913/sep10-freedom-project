@@ -6,17 +6,18 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **sports**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **sports** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **sports** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://matthewc0913.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1nUkTbB63gkyMQRd5lOPEcv0BZD-v4jOJBfOBJ7pHjoo/edit#slide=id.g2dda1643f0e_0_541)
 
 ## Implications
 ##### PROS
 *
+
 ##### CONS
 *
 
