@@ -16,11 +16,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* Make Sports more fun
+* Less time wasted
+* No more aurging calls
+* Happier peop;e watching the game
 
 ##### CONS
 * Lost of Jobs with AI Refs
 * AI chance of breaking
+  
 
 
 ## Blog
