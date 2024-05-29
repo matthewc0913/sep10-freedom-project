@@ -16,10 +16,11 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-*
+* 
 
 ##### CONS
-* Lost of Jobd with AI Refs
+* Lost of Jobs with AI Refs
+* AI chance of breaking
 
 
 ## Blog
