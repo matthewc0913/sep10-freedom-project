@@ -1,6 +1,8 @@
 # Entry 7
 ##### 5/29/2024
 
+## Content
+I had to present my freedom project website.
 
 
 
