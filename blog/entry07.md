@@ -4,7 +4,9 @@
 ## Content
 I had to present my freedom project website.
 
+### In class
 
+### Expo
 
 
 ## Next Steps
