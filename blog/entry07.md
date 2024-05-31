@@ -40,7 +40,7 @@ Some skills that I’ve learned persenting my Freedom Project website are **Atte
 I had to learn how to manage time going through my presentations. I have to know how much time I have spent on each slide or section. How much longer my presentation is and how much longer I want the presentation to go for. So I have to know time management to get through my presentations without any problems.
 
 ### Attention to detail
-
+To have a successful presentation you have to have attention to detail. You have to know what your saying and talking about. If people asks you questions you need to know the answer. So you have to pay every single attention to detail to look like you know what your talking about. You have to know whats on the slides, you have to know what people want to hear and you have to pay attention to what you are saying. This is why I learned the skill: Attention to detail.
 
 
 ## Next Steps
